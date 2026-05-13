@@ -1,0 +1,4 @@
+interface:
+  display_name: "Webfetch CLI"
+  short_description: "Fetch pages and crawl docs as Markdown"
+  default_prompt: "Use $webfetch-cli to fetch this documentation page as Markdown and cache it locally."
