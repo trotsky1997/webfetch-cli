@@ -1,0 +1,26 @@
+{
+  "name": "webfetch-cli",
+  "version": "0.1.0",
+  "description": "Standalone URL-to-Markdown fetch and bounded documentation crawl CLI.",
+  "type": "module",
+  "bin": {
+    "webfetch-cli": "./bin/webfetch.js"
+  },
+  "scripts": {
+    "smoke": "node test/smoke.mjs"
+  },
+  "keywords": [
+    "webfetch",
+    "markdown",
+    "crawler",
+    "cli"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@quilicicf/markdown-formatter": "^6.0.0",
+    "turndown": "^7.2.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
