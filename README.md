@@ -2,6 +2,12 @@
 
 Standalone Node CLI for fetching web pages as Markdown and crawling bounded documentation sets. It does not depend on Pi.
 
+## Skill
+
+```bash
+npx skill add trotsky1997/webfetch-cli
+```
+
 ## Run From GitHub
 
 The package can be run directly from this repository:
