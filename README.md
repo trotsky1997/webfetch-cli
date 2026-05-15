@@ -5,7 +5,7 @@ Standalone Node CLI for fetching web pages as Markdown and crawling bounded docu
 ## Skill
 
 ```bash
-npx skill add trotsky1997/webfetch-cli
+npx skills add trotsky1997/webfetch-cli
 ```
 
 ## Run From GitHub
